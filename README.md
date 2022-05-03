@@ -1,2 +1,3 @@
-# NewfangledVisualization
-There are some newfangled visualization to show your data!
+# Bionlp
+# qiu qin tian,hong chang,kai li
+Code for Biological Text Mining ！
