@@ -1,3 +1,3 @@
 # Bionlp
-# qiu qin tian,hong chang,kai li
+# qin tian qiu,hong chang,kai li
 Code for Biological Text Mining ！
